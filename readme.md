@@ -8,4 +8,4 @@ Table of context:
 * example-4 - few functions from react project
 * example-5 - few functions from react project
 * example-6 - Ramda example
-* example-6 - work with arrays
+* example-7 - work with arrays
